@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(
             name: "AgoraRTM",
-            targets: ["AgoraRtmKit", "aosl"]
+            targets: ["AgoraRtmKit"]
         ),
     ],
     targets: [
